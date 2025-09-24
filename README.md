@@ -1,6 +1,6 @@
 
 ### About
-This is a dictionry 'study' project. Mean't for me to improve my skills in software development.
+This is a dictionary 'study' project. Meant for me to improve my skills in software development.
 The technologies to be used are ones I've used before yet still feel that I don't really know.
 
 ### Technologies to be used
@@ -17,4 +17,4 @@ The technologies to be used are ones I've used before yet still feel that I don'
 1. Gamification - Daily "Word of the Day" with streak tracking and Quizzes based on saved words.
 2. Advanced search - by synonyms/ antonyms, category
 3. Accessibility and UX - Keyboard navigation, Screen reader-friendly layout, Adjustable font size and themes (light/ dark).
-4. AI Integration - use GPT to generate example sentences.
+4. AI Integration - a dictionary support chatbot, allow users to test example sentences of a word to see if they understood it correctly. AI checks their accuracy and correct application.
