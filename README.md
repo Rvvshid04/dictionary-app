@@ -14,7 +14,8 @@ The technologies to be used are ones I've used before yet still feel that I don'
 3. Responsive UI
 
 #### To further improve my skills, additional features
-1. Gamification - Daily "Word of the Day" with streak tracking and Quizzes based on saved words.
-2. Advanced search - by synonyms/ antonyms, category
-3. Accessibility and UX - Keyboard navigation, Screen reader-friendly layout, Adjustable font size and themes (light/ dark).
-4. AI Integration - a dictionary support chatbot, allow users to test example sentences of a word to see if they understood it correctly. AI checks their accuracy and correct application.
+1. History and Favorites - A list of 'starred' words and words searched previously. Planning on implementing it using localstorage.
+2. Gamification - Daily "Word of the Day" with streak tracking and Quizzes based on saved words.
+3. Advanced search - by synonyms/ antonyms, category
+4. Accessibility and UX - Keyboard navigation, Screen reader-friendly layout, Adjustable font size and themes (light/ dark).
+5. AI Integration - a dictionary support chatbot, allow users to test example sentences of a word to see if they understood it correctly. AI checks their accuracy and correct application.
